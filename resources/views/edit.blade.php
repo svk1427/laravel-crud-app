@@ -38,7 +38,7 @@
               <input type="email" class="form-control" name="email" value="{{ $student->email }}"/>
           </div>
           <div class="form-group">
-              <label for="phone">Phone</label>
+              <label for="phone">Mobile Number</label>
               <input type="tel" class="form-control" name="phone" value="{{ $student->phone }}"/>
           </div>
           <div class="form-group">
